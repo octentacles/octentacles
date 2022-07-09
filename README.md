@@ -10,10 +10,7 @@
 <!--   Top Languages Using -->
 <!-- ### 👨‍💻 Top Languages Used*: -->
 <div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=octentacles&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=octentacles&theme=nord_dark)
-</div>
+<img alt="Octentacles' GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=octentacles&amp;theme=algolia&amp;hide_border=true&amp;count_private=true&amp;show_icons=true"> <img alt="Octentacles' GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=octentacles&amp;theme=algolia&amp;hide_border=true"><img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=octentacles&amp;theme=react-dark&amp;area=true&amp;hide_border=true&amp;custom_title=Contributions%20Graph">
 
 
 <img alt="Octentacles' GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=octentacles&amp;theme=algolia&amp;hide_border=true&amp;count_private=true&amp;show_icons=true"> <img alt="Octentacles' GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=octentacles&amp;theme=algolia&amp;hide_border=true"><img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=octentacles&amp;theme=react-dark&amp;area=true&amp;hide_border=true&amp;custom_title=Contributions%20Graph">
