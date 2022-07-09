@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @octentacles
+- 👋 Hi, I’m Seph, @octentacles
 - 👀 I’m interested in Software Engineering and Artificial Intelligence. 
 - 🌱 I’m currently learning Artificial Intelligence.
 - 💞️ I’m looking to collaborate on an AI web app. 
